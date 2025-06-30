@@ -1,0 +1,45 @@
+{
+            "type": "ITEM_VARIATION",
+            "id": "GHSHW2ZPL4PPG576OTY4L32X",
+            "updated_at": "2025-06-17T17:39:38.28Z",
+            "created_at": "2025-04-25T15:23:08.131Z",
+            "version": 1750181978280,
+            "is_deleted": false,
+            "custom_attribute_values": {
+              "Square:fa80b10c-ad2e-4292-8817-6e46b4cb9071": {
+                "name": "Hair Length",
+                "custom_attribute_definition_id": "4YMYBB4L5HNXQAK6YIUCMDIE",
+                "type": "SELECTION",
+                "selection_uid_values": [
+                  "POFWXP3ASXRBFSJTS4UU7N4M"
+                ],
+                "key": "Square:fa80b10c-ad2e-4292-8817-6e46b4cb9071"
+              }
+            },
+            "present_at_all_locations": true,
+            "item_variation_data": {
+              "item_id": "CAGSHR2K4IEVQWAEQEZVC7XZ",
+              "name": "Color and Highlights (Short)",
+              "ordinal": 4,
+              "pricing_type": "FIXED_PRICING",
+              "price_money": {
+                "amount": 22500,
+                "currency": "USD"
+              },
+              "service_duration": 10800000,
+              "available_for_booking": false,
+              "no_show_fee": {
+                "amount": 5000,
+                "currency": "USD"
+              },
+              "sellable": true,
+              "stockable": true,
+              "team_member_ids": [
+                "TMZsvFsVpRl0F7Td",
+                "TMf6LZDcsrr68LwU",
+                "TM5AuaFWEAkvW_2H",
+                "TMyGft9SAP65PAZU"
+              ]
+            }
+          },
+        
